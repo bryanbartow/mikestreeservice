@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://mikestreeserviceaustin.com"
 languageCode = "en-us"
 title = "Mike's Tree Service"
 theme = "hugo-agency-theme"
