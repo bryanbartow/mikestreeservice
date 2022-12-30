@@ -235,7 +235,7 @@ googleAnalytics = "UA-18164082-1"
 	# Footer section
 	[params.footer]
         enable = true
-		copyright = "Mike's Tree Service © 2016. All Rights Reserved."
+		copyright = "Mike's Tree Service © 2022. All Rights Reserved."
 
 		[[params.footer.social]]
 			icon = "fa-yelp"
